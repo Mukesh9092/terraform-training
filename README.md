@@ -1,2 +1,2 @@
-# terraform-training-
+# terraform-training
 Aws terraform training
